@@ -1,0 +1,15 @@
+* Project 1  
+** Basic Image Manipulation
+        Color Space Transformation  
+        Image Resizing via Bilinear Interpolation  
+
+** Histogram Equalization
+        Histogram Equalization  
+        Image Filtering – Creating Oil Painting Effect  
+        Image Filtering – Creating Film Special Effect  
+
+** Noise Removal 
+        Mix noise in color image  
+        Principal component analysis (PCA)  
+        Block matching and 3-D (BM3D) transform filter  
+        
