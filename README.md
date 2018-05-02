@@ -19,5 +19,4 @@ Email: shaw9575@yahoo.com
 *            Salient Point Descriptors and Image Matching
             
 # Project 4: 
-*            CNN (Convolutional Nerual Network)
-*            Updataing in beginning of May
+*            CNN (Convolutional Nerual Network)  
