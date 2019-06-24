@@ -1,3 +1,3 @@
 # RUN CODE ON MAC  
-`g++ filename.cpp`
+`g++ filename.cpp`  
 `./filename.out ..argument..`  
